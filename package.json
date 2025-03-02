@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9"
+  },
+  "name": "weatherappproject",
+  "version": "1.0.0",
+  "description": "This is full project which is created by html and css, and javascripts .",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasalehi/WeatherAppProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasalehi/WeatherAppProject/issues"
+  },
+  "homepage": "https://github.com/kasalehi/WeatherAppProject#readme"
+}
